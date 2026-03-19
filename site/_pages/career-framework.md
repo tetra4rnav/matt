@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Career Narrative Framework"
+title: "Career Framework"
 permalink: /career-framework/
 author_profile: true
 ---
