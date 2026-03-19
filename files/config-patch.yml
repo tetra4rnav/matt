@@ -1,0 +1,26 @@
+# _config.yml に適用する差分（academicpages のデフォルトからの変更箇所）
+# 以下の項目を _config.yml で該当行を探して上書きしてください
+
+# ─── サイト基本設定 ───────────────────────────────────────
+title: "Matt Sakamaki, MD, MPH(c)"
+name: "Matt Sakamaki"
+description: "MD, MPH Candidate at Johns Hopkins Bloomberg School of Public Health"
+url: "https://tetra4rnav.github.io"
+baseurl: "/matt"
+repository: "tetra4rnav/matt"
+
+# ─── プロフィール ─────────────────────────────────────────
+author:
+  name:   "Matt Sakamaki"
+  avatar: "images/profile.png"   # プロフィール画像を images/ に置く
+  bio:    "MD, MPH Candidate | Social Epidemiology | Health Policy | Digital Health"
+  location: "Baltimore, MD / Niigata, Japan"
+  email:  "msakama2@jh.edu"
+  github: "tetra4rnav"
+  # twitter, linkedin 等は任意で追加
+
+# ─── ナビゲーション追加 ───────────────────────────────────
+# _data/navigation.yml の main リストに追加:
+#
+# - title: "Career Framework"
+#   url: /career-framework/
